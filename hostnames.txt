@@ -3,8 +3,8 @@
 0.0.0.0 s.ytimg.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
-0.0.0.0 www.gstatic.com
-0.0.0.0 gstatic.com
+#0.0.0.0 www.gstatic.com
+#0.0.0.0 gstatic.com
 0.0.0.0 clients1.google.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -15,7 +15,7 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 s.innovid.com
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
+#0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 clients.l.google.com
@@ -44,8 +44,8 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 analytic-google.com
-0.0.0.0 www.analytic-google.com
+#0.0.0.0 analytic-google.com
+#0.0.0.0 www.analytic-google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 fwmrm.net
 0.0.0.0 innovid.com

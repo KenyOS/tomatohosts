@@ -1,5 +1,4 @@
 0.0.0.0 beap.gemini.yahoo.com
-0.0.0.0 s.yimg.com
 0.0.0.0 exosrv.com
 0.0.0.0 data.otaserve.net
 0.0.0.0 pubads.g.doubleclick.net

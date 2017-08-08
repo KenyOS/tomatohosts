@@ -2,3 +2,12 @@
 0.0.0.0 s.yimg.com
 0.0.0.0 exosrv.com
 0.0.0.0 data.otaserve.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 googlead.services.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 staticdoubleclick.net
+0.0.0.0 www.googlesyndication.com

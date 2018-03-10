@@ -1,4 +1,4 @@
-#block yt ads -- works? retired from https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/
+#block yt ads -- works? extracted from https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/
 0.0.0.0 r3---sn-25ge7nes.googlevideo.com
 0.0.0.0 r3.sn-25ge7nes.googlevideo.com
 0.0.0.0 r5---sn-a5mlrn7z.googlevideo.com
